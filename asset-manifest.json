@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tensorflow-img-detect/static/css/main.982ab04b.chunk.css",
+    "main.js": "/tensorflow-img-detect/static/js/main.7d26605c.chunk.js",
+    "main.js.map": "/tensorflow-img-detect/static/js/main.7d26605c.chunk.js.map",
+    "runtime-main.js": "/tensorflow-img-detect/static/js/runtime-main.b6b5aa1b.js",
+    "runtime-main.js.map": "/tensorflow-img-detect/static/js/runtime-main.b6b5aa1b.js.map",
+    "static/js/2.d184d9eb.chunk.js": "/tensorflow-img-detect/static/js/2.d184d9eb.chunk.js",
+    "static/js/2.d184d9eb.chunk.js.map": "/tensorflow-img-detect/static/js/2.d184d9eb.chunk.js.map",
+    "index.html": "/tensorflow-img-detect/index.html",
+    "static/css/main.982ab04b.chunk.css.map": "/tensorflow-img-detect/static/css/main.982ab04b.chunk.css.map",
+    "static/js/2.d184d9eb.chunk.js.LICENSE.txt": "/tensorflow-img-detect/static/js/2.d184d9eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6b5aa1b.js",
+    "static/js/2.d184d9eb.chunk.js",
+    "static/css/main.982ab04b.chunk.css",
+    "static/js/main.7d26605c.chunk.js"
+  ]
+}
