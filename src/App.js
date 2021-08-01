@@ -60,7 +60,7 @@ function App() {
   return (
     <div className="App">
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
-        <a className="navbar-brand" href="/pathfinding-visualizer">
+        <a className="navbar-brand" href="/tensorflow-img-detect">
           <b>7 Days, 7 Projects - TensorFlow Image Identification (Day 7/7)</b>
         </a>
 
